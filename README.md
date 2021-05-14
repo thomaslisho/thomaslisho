@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thomaslisho
 - 👀 I’m interested in Full Stack (Java/Angular).
 - 🌱 I’m currently learning microservices
-- 💞️ I’m looking to collaborate on, new technologies and projects that makes some value.
+- 💞️ I’m looking to collaborate on, new technologies and projects.
 - 📫 How to reach me lishoatwork@gmail.com
 
 <!---
